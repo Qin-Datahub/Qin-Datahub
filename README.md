@@ -1,6 +1,6 @@
-# Welcome to My Data Science Playground
-
 ![selfie](selfie.png)
+
+# Welcome to My Data Science Playground
 
 ## **Introduction**
 
