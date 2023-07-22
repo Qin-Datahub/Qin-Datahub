@@ -14,8 +14,8 @@ In this repo, you will find a collection of open-sourced data science projects t
 
 A list of projects contained in this repo:
 
-* [Unlocking Business Growth: Unharness ML to Predict Customer Lifetime Value]()
-* [Revolutionizing Information Retrieval: Building a Customized Document QA Chatbot]()
+* [Unlocking Business Growth: Unharness ML to Predict Customer Lifetime Value](https://github.com/Qin-Datahub/Customer-Lifetime-Value-Prediction)
+* [Revolutionizing Information Retrieval: Building a Customized Document QA Chatbot](https://github.com/Qin-Datahub/Document_QA_Chatbot)
 
 ## **My Journey**
 
