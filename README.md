@@ -19,7 +19,7 @@ A list of projects contained in this repo:
 * [Unlocking Business Growth: Unharness ML to Predict Customer Lifetime Value](https://github.com/Qin-Datahub/Customer-Lifetime-Value-Prediction)
 * [Revolutionizing Information Retrieval: Building a Customized Document QA Chatbot](https://github.com/Qin-Datahub/Document_QA_Chatbot)
 * [Data Visualization Playground](https://github.com/Qin-Datahub/Data-Visualization)
-* [Credit Card Fraud Detection Practice](https://github.com/Qin-Datahub/Credit-Card-Fraud-Detection)
+* [Credit Card Fraud Detection: A Machine Learning Approach](https://github.com/Qin-Datahub/Credit-Card-Fraud-Detection)
 
 ## **My Journey**
 
