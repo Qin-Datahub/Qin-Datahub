@@ -4,7 +4,7 @@
 
 ## **Introduction**
 
-Hello there! I'm SpongeBob, currently a data scientist at TN, where I'm constantly exploring ways to leverage data-driven solutions for various industries. As an ardent advocate of open-source principles, I believe in sharing knowledge and collaborating with the global data science community to drive innovation.
+Hello there! I'm Qin, currently a data scientist at TN, where I'm constantly exploring ways to leverage data-driven solutions for various industries. As an ardent advocate of open-source principles, I believe in sharing knowledge and collaborating with the global data science community to drive innovation.
 
 ## **About This Repo**
 
