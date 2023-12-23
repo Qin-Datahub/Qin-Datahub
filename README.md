@@ -1,7 +1,5 @@
 # **Hi There!**
 
-![selfie](selfie.png)
-
 # Welcome to My Data Science Playground
 
 ## **Introduction**
@@ -38,4 +36,3 @@ Collaboration is the heart of the open-sourced community, and I welcome you to e
 
 Thank you for visiting my Data Science Playground! I hope these projects inspire you, spark your curiosity, and demonstrate the limitless possibilities of data science. Let's contribute this journey of exploration and innovation together!
 
-SpongeBob
