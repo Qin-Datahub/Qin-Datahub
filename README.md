@@ -10,7 +10,7 @@ Hello there! I'm Qin, currently a data scientist at TN, where I'm constantly exp
 
 This GitHub account serves as my personal Data Science Playground, a creative space where I showcase an assortment of data science projects spanning different industries and domains. I'm a firm believer in the power of data to unlock insights, drive informed decision-making, and address real-world challenges.
 
-In this repo, you will find a collection of open-sourced data science projects that I've worked on independently. Each project represents a unique journey, delving into diverse datasets, employing cutting-edge algorithms, and ultimately delivering actionable results.
+In this repo, you will find a collection of open-sourced data science projects that I've worked on. Each project represents a unique journey, delving into diverse datasets, employing cutting-edge algorithms, and ultimately delivering actionable results.
 
 A list of projects contained in this repo:
 
