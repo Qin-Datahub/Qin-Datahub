@@ -15,7 +15,7 @@ In this repo, you will find a collection of open-sourced data science projects t
 A list of projects contained in this repo:
 
 * EDA & ETL
-  * [Hotel Demand Analysis]()
+  * [Hotel Demand Analysis](https://github.com/Qin-Datahub/EDA_and_ETL/blob/main/hotel_demand_analysis_with_plotly.ipynb)
 * Generative AI & ML
   * [Unlocking Business Growth: Unharness ML to Predict Customer Lifetime Value](https://github.com/Qin-Datahub/Customer-Lifetime-Value-Prediction)
   * [Revolutionizing Information Retrieval: Building a Customized Document QA Chatbot](https://github.com/Qin-Datahub/Document_QA_Chatbot)
