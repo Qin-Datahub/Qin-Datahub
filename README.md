@@ -14,10 +14,12 @@ In this repo, you will find a collection of open-sourced data science projects t
 
 A list of projects contained in this repo:
 
-* [Unlocking Business Growth: Unharness ML to Predict Customer Lifetime Value](https://github.com/Qin-Datahub/Customer-Lifetime-Value-Prediction)
-* [Revolutionizing Information Retrieval: Building a Customized Document QA Chatbot](https://github.com/Qin-Datahub/Document_QA_Chatbot)
-* [EDA & ETL](https://github.com/Qin-Datahub/Data-Visualization)
-* [Credit Card Fraud Detection: A Machine Learning Approach](https://github.com/Qin-Datahub/Credit-Card-Fraud-Detection)
+* EDA & ETL
+  * [Hotel Demand Analysis]()
+* Generative AI & ML
+  * [Unlocking Business Growth: Unharness ML to Predict Customer Lifetime Value](https://github.com/Qin-Datahub/Customer-Lifetime-Value-Prediction)
+  * [Revolutionizing Information Retrieval: Building a Customized Document QA Chatbot](https://github.com/Qin-Datahub/Document_QA_Chatbot)
+  * [Credit Card Fraud Detection: A Machine Learning Approach](https://github.com/Qin-Datahub/Credit-Card-Fraud-Detection)
 
 ## **My Journey**
 
